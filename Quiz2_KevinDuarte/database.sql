@@ -59,3 +59,5 @@ INSERT INTO servicios (nombre, descripcion, precio, id_cliente)
 VALUES ('Diseño Web', 'Página web empresarial', 350000, 2);
 
 COMMIT;
+
+-- Script verificado y ejecutado en Oracle 10g Enterprise 10.2.0.1.0
