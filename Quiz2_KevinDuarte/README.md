@@ -67,3 +67,5 @@ java  -cp out:ojdbc11.jar Main
 
 Kevin Duarte – Universidad de Investigación y Desarrollo (UDI)  
 Quiz 2 – Programación 2
+
+<!-- v2: proyecto funcional con conexión Oracle 10g - IP 192.168.254.215 -->
